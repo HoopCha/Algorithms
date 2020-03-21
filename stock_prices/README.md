@@ -6,7 +6,7 @@ Write a function `find_max_profit` that receives as input a list of stock prices
 
 For example, `find_max_profit([1050, 270, 1540, 3800, 2])` should return 3530, which is the maximum profit that can be made from a single buy and then sell of these stock prices. 
 
-## Testing
+## Testing 
 
 Run the test file by executing `python test_stock_prices.py`.
 
